@@ -147,13 +147,7 @@ export default function Services() {
                   {service.desc}
                 </p>
 
-                <button className="mt-6 flex items-center gap-2 text-blue-700 font-semibold hover:gap-3 transition-all">
-
-                  Learn More
-
-                  <ArrowRight size={18} />
-
-                </button>
+                
 
               </motion.div>
 

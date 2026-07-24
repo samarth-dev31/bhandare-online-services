@@ -120,7 +120,7 @@ export default function Contact() {
                 </h3>
 
                 <p className="text-gray-600">
-                  Monday – Saturday<br />
+                  Monday – Sunday<br />
                   9:00 AM – 7:00 PM
                 </p>
               </div>
