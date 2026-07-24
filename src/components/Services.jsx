@@ -30,16 +30,8 @@ const services = [
     title: "Job & Exam Forms",
     desc: "Government & private application forms.",
   },
-  {
-    icon: Building2,
-    title: "GST Registration",
-    desc: "GST registration & related services.",
-  },
-  {
-    icon: Receipt,
-    title: "Income Tax Return",
-    desc: "Fast and accurate ITR filing.",
-  },
+  
+  
   {
     icon: Briefcase,
     title: "Udyam Registration",
@@ -50,21 +42,14 @@ const services = [
     title: "FSSAI Registration",
     desc: "Food license registration support.",
   },
-  {
-    icon: Ticket,
-    title: "Railway & Flight Tickets",
-    desc: "Easy ticket booking service.",
-  },
+  
   {
     icon: FileBadge,
     title: "Online Certificates",
     desc: "Government certificate assistance.",
   },
-  {
-    icon: Plane,
-    title: "Travel Services",
-    desc: "Travel bookings & online support.",
-  },
+  
+  
   {
     icon: FileText,
     title: "Resume Creation",
